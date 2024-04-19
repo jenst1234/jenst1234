@@ -4,14 +4,14 @@
 
 
 ### 🚀 About Me
-As a certified Data Scientist, Data Analyst, and Business Intelligence (BI) Expert, I combine my solid academic background in Business Administration and Tax and Accounting with specialized training in the data field. My passion lies in utilizing Advanced Machine Learning, Data Analytics, and Data Visualization to develop data-driven, transformative solutions for business challenges.
+As a certified Data Scientist, Data Analyst, and Business Intelligence (BI) Expert, I combine a robust academic foundation in Business Administration and Tax and Accounting with specialized training in data science. I am deeply passionate about leveraging Advanced Machine Learning, including AI-driven technologies like Deep Learning and Natural Language Processing, to craft innovative and impactful solutions for business challenges.
 
 ### 🛠 Skills & Technology
 - **Certificates**: Data Scientist, Data Analyst, BI Expert
 - **Programming Languages**: Python, SQL
-- **Technologies**: Advanced Machine Learning, Data Analytics, Data Visualization, Data Engineering, MLOps
-- **Tools**:
-  - **Machine and Deep Learning**: Scikit-learn, TensorFlow, Keras, PyTorch
+- **AI and Machine Learning Technologies**:
+  - **Core Technologies**: Advanced Machine Learning, Deep Learning, Natural Language Processing
+  - **Tools**: TensorFlow, Keras, PyTorch, Scikit-learn
   - **Analysis and Visualization**: Matplotlib, Seaborn, Power BI, Streamlit
   - **Data Processing**: Pandas, NumPy
   - **MLOps:** Basics MLflow, Docker
@@ -20,7 +20,8 @@ As a certified Data Scientist, Data Analyst, and Business Intelligence (BI) Expe
 - **Soft Skills**: Analytical Thinking, Problem-Solving, Stress Resilience, Time Management, Communication
 
 ### 🏆 Professional Background
-My career in the audit sector at Big4 and Next 10 companies provided me with deep insights into business processes and financial reporting. These experiences, complemented by my specialized knowledge in data science, enable me to perform comprehensive data analyses and create customized solutions for contemporary business challenges.
+With experience in auditing at Big4 and Next 10 companies, I've gained a deep understanding of business processes and financial systems. This expertise is complemented by my advanced skills in AI and Machine Learning, enabling me to perform sophisticated data analyses and develop AI-driven solutions for modern business hurdles.
+
 
 ### 📚 Education
 My education forms a solid foundation for my career in data science:
@@ -38,10 +39,10 @@ My education forms a solid foundation for my career in data science:
 My projects include the application of Advanced Machine Learning models, Data Analytics, and BI techniques to solve complex business questions. Visit my [GitHub page](https://github.com/yourGitHubUsername) for a detailed overview of my work.
 
 ### 💡 Interests
-I'm passionate about staying at the forefront of Data Science, especially in areas like Machine Learning, Data Analytics, and BI, and am constantly looking for new challenges and opportunities to learn.
+Driven by a commitment to continuous learning, I am always on the lookout for the latest advancements in AI, Machine Learning, and Business Intelligence to remain at the forefront of the data science field.
 
 ### 📫 Contact
-For exciting projects, collaboration, or to exchange ideas, feel free to contact me:
+For innovative projects, collaborations, or to exchange ideas about AI and data science advancements, feel free to contact me:
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jens.tauscher1@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tauscher-jens/?locale=en_US)
 
