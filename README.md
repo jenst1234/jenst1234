@@ -4,7 +4,7 @@
 
 
 ### 🚀 About Me
-As a certified Data Scientist, Data Analyst, and Business Intelligence (BI) Expert, I combine a robust academic foundation in Business Administration and my work experience in audit with specialized training in data science. I am deeply passionate about leveraging Advanced Machine Learning, including AI-driven technologies like Deep Learning, to craft innovative and impactful solutions for business challenges.
+With a diploma as Data Scientist, certified Data Analyst, and Business Intelligence (BI) Expert, I combine a robust academic foundation in Business Administration and my work experience in audit with specialized training in data science. I am deeply passionate about leveraging Advanced Machine Learning, including AI-driven technologies like Deep Learning, to craft innovative and impactful solutions for business challenges.
 
 ### 🛠 Skills & Technology
 - **Machine Learning**: Techniques including anomaly detection, regression, classification, clustering and ensemble methods
